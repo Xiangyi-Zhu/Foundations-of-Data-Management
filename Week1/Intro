@@ -1,1 +1,11 @@
+1. Prerequisites
+Programming skills: Python (Spark), Java (Hadoop)
+Unix-like environment & shell command e.g. Linux 
+log into EC2 instance from Windows 
+cygwin terminal (ssh program) 
+powershell 
+
+2. some basic commends
+ls means the list of content of current directory
+man ls means menu list
 
